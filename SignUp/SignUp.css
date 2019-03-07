@@ -1,0 +1,73 @@
+html{
+	background-image: url("background.png");
+}
+
+.SU{
+	border-radius: 25%;
+	width: 30%;
+	height: 100%;
+	background-color: white;
+	font-size: 1em;
+	font-family: sans-serif;
+	margin: auto;
+}
+.avatar{
+	height: 25%;
+	width: 40%;
+	border-radius: 50%;
+	margin: 5% 30%;
+}
+
+.txt2{
+	width: 95%;
+	height: 70%;
+	margin-left: auto;
+}
+
+.uname{
+	width: inherit;
+	height: 7%;
+	margin: auto;
+}
+
+.pass{
+	width: inherit;
+	height: 7%;
+	margin: auto;
+}
+
+.email{
+	width: inherit;
+	height: 7%;
+	margin: auto;
+}
+
+.num{
+	width: inherit;
+	height: 7%;
+	margin: auto;
+}
+.CB{
+	font-size: 0.7em;
+	text-decoration: none;
+	margin: 10 10;
+}
+.bttn1{
+	width: inherit;
+	height: 9%;
+	background-color: deepskyblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+	margin-bottom: 5%;
+}
+
+.bttn2{
+	width: inherit;
+	height: 9%;
+	background-color: indianred;
+    color: white;
+    border: none;
+    cursor: pointer;
+	text-decoration: none;
+}

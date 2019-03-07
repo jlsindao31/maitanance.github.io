@@ -1,0 +1,83 @@
+html{
+	background-image: url("background.png");
+}
+
+.img1{
+	width: 50%;
+	height: 80%;
+	border-radius: 50%;
+	margin-left: 23%;
+	margin-bottom: 10%;
+	
+}
+
+.formbox{
+	border-radius: 25%;
+	background-color: white;
+	width: 30%;
+	height: 100%;
+	border: transparent;
+	position: relative;
+	margin: auto;
+	padding: auto;
+	float: right;
+	
+}
+
+.in1{
+	width: 80%;
+	height: 30%;
+	margin: 10% 10%;
+	object-position: center;
+}
+
+.un{
+	width: 100%;
+	height: 25%;
+	margin-bottom: 5%;
+	font-size: 0.9em;
+}
+
+.pw{
+	width: 100%;
+	height: 25%;
+	margin-bottom: 5%;
+	font-size: 0.9em;
+}
+
+.bttn1{
+	width: 45%;
+	height: 20%;
+	margin-bottom: 5%;
+	background-color: deepskyblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.bttn2{
+	width: 50%;
+	height: 20%;
+	margin-bottom: 5%;
+	background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+	text-decoration: inherit;
+}
+
+.forgot1{
+	font-family: sans-serif;
+	position: inline;
+	width: 100%;
+	text-decoration: none;
+}
+
+.copy1{
+	width: 100%;
+	padding: inherit;
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 0.8em;
+	background-color: lightgrey;
+}
